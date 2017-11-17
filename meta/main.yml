@@ -1,5 +1,5 @@
 galaxy_info:
-  author: keshavmahara
+  #author: keshavmahara
   description: your description
   company: your company (optional)
 
@@ -44,7 +44,7 @@ galaxy_info:
   #   - 7
   #   - 99.99
 
-  galaxy_tags: []
+  galaxy_tags:
    - apache
    - web
     # List tags for your role here, one per line. A tag is a keyword that describes
